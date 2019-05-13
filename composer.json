@@ -1,0 +1,15 @@
+{
+    "name": "manuelkonrath/date-time",
+    "authors": [
+        {
+            "name": "Manuel Konrath",
+            "email": "manuel.konrath@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\Time\\": ""
+        }
+    }
+}
